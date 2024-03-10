@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'rubik';
-    src: url('Rubik-VariableFont_wght.ttf') format('truetype');
+    src: url('/Rubik-VariableFont_wght.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'teko';
-    src: url('Teko-VariableFont_wght.ttf') format('truetype');
+    src: url('/Teko-VariableFont_wght.ttf') format('truetype');
 }
 
 * {
@@ -21,7 +21,7 @@ body {
     text-align: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('fundo.jpg');
+    background-image: url('/fundo.jpg');
     background-size: cover;
 }
 
